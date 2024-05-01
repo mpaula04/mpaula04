@@ -1,5 +1,6 @@
-![Portada](https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn.png?raw=true)
-
+<div id="header" align="center">
+  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn.png?raw=true)" width="900"/>
+</div>
 
 
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
