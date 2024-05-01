@@ -25,7 +25,7 @@ About me:
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 ## My Skills 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-Blue)
+![Python](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-Blue)
 
 
 
