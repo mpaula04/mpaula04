@@ -11,6 +11,8 @@ Sobre mí:
 
 ¿Quieres contactar conmigo? ¡Claro que sí! Puedes encontrarme, mi correo es mpaula04@hotmail.es
 
+
+
 Hello! I'm Paula, a technology enthusiast currently transitioning into the exciting world of data analysis. 🚀
 
 About me:
