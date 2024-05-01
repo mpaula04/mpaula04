@@ -35,7 +35,7 @@ Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
     <img src="https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi" alt="Power BI badge" width="200" />
 </a>
 <a href="link-a-tu-recurso-de-SQL">
-    <img src="https://img.shields.io/badge/SQL-orange?logo=sql" alt="SQL badge" width="200" />
+    <img src="https://img.shields.io/badge/SQL-orange?logo=sql" alt="SQL badge" width="100" />
 </a>
 
 <a href="https://www.python.org/">
