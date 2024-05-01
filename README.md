@@ -1,4 +1,4 @@
-![Portada](https://www.questionpro.com/blog/wp-content/uploads/2020/01/1222-Portada-variables-de-investigacion.jpg)
+![Portada](https://w1.pngwing.com/pngs/523/256/png-transparent-big-data-analytics-data-analysis-business-intelligence-data-science-computer-software-machine-learning-pentaho.png)
 
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
 
