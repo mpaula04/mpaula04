@@ -7,7 +7,6 @@ Sobre mí:
 🤖 Apasionada por la automatización, disfruto encontrando maneras creativas de simplificar y optimizar mi trabajo.
 
 ¿Quieres contactar conmigo? ¡Claro que sí! Puedes encontrarme, mi correo es mpaula04@hotmail.es
-<!--
 
 Hello! I'm Paula, a technology enthusiast currently transitioning into the exciting world of data analysis. 🚀
 
@@ -20,6 +19,7 @@ About me:
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 
+<!--
 **mpaula04/mpaula04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
