@@ -1,4 +1,6 @@
-![Portada](https://w1.pngwing.com/pngs/523/256/png-transparent-big-data-analytics-data-analysis-business-intelligence-data-science-computer-software-machine-learning-pentaho.png)
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+</div>
 
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
 
