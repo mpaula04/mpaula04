@@ -25,11 +25,8 @@ About me:
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 ## My Skills 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Intermediate-blue)
-![Excel](https://img.shields.io/badge/Excel-Expert-green)
-![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-yellow)
+[![SQL](https://img.shields.io/badge/SQL-Advanced-orange?logo=sql)](https://www.sql.com)
+
 
 
 
