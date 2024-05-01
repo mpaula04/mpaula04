@@ -1,4 +1,4 @@
-### Hola, mi nmombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
+### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
 
 Sobre mí:
 🔍 Me fascina explorar datos y desenterrar historias ocultas en ellos.
