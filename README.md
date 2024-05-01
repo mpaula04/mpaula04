@@ -24,6 +24,10 @@ About me:
 
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
+## My Skills 
+![Python](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-Blue)
+
+
 
 <!--
 **mpaula04/mpaula04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
