@@ -26,7 +26,7 @@ Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 ## My Skills 
 <a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-blue?logo=python" alt="Seaborn badge" width="200" />
+    <img src="https://img.shields.io/badge/Seaborn-purple?logo=python" alt="Seaborn badge" width="200" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
     <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel" alt="Excel badge" width="200" />
