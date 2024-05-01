@@ -26,6 +26,9 @@ About me:
 
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
+![Portada]([URL-de-tu-imagen](https://previews.123rf.com/images/freud/freud1804/freud180400059/100258497-ilustraci%C3%B3n-relacionada-con-el-an%C3%A1lisis-de-datos-investigaci%C3%B3n-informaci%C3%B3n-anal%C3%ADtica-informe-y.jpg))
+
+
 ## My Skills 
 <a href="https://seaborn.pydata.org/">
     <img src="https://img.shields.io/badge/Seaborn-purple?logo=python" alt="Seaborn badge" width="200" />
