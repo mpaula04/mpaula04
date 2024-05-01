@@ -25,13 +25,21 @@ About me:
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 ## My Skills 
-[![SQL](https://img.shields.io/badge/SQL-orange?logo=sql)](https://www.sql.com)
-[![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=python)](https://seaborn.pydata.org/)
-[![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi)](https://powerbi.microsoft.com/)
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
+<a href="https://seaborn.pydata.org/">
+    <img src="https://img.shields.io/badge/Seaborn-blue?logo=python" alt="Seaborn badge" width="200" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel" alt="Excel badge" width="200" />
+</a>
+<a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi" alt="Power BI badge" width="200" />
+</a>
+<a href="link-a-tu-recurso-de-SQL">
+    <img src="https://img.shields.io/badge/SQL-orange?logo=sql" alt="SQL badge" width="200" />
+</a>
+
 <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python" alt="Python badge" width="200" />
+    <img src="https://img.shields.io/badge/Python-blue?logo=python" alt="Python badge" width="200" />
 </a>
 
 
