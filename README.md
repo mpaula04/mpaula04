@@ -1,4 +1,5 @@
-![Portada]([URL-de-tu-imagen](https://www.canva.com/design/DAGEAbibwz4/A5hwvrgWgHnecsjJQ-_t8w/view?utm_content=DAGEAbibwz4&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![Portada](https://www.canva.com/design/DAGEAbibwz4/A5hwvrgWgHnecsjJQ-_t8w/view?utm_content=DAGEAbibwz4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
