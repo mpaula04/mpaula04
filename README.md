@@ -1,3 +1,5 @@
+![Portada](https://www.questionpro.com/blog/wp-content/uploads/2020/01/1222-Portada-variables-de-investigacion.jpg)
+
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
 
 Sobre mí:
