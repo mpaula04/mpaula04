@@ -25,11 +25,12 @@ About me:
 Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 ## My Skills 
-[![SQL](https://img.shields.io/badge/SQL-orange?logo=sql)](https://www.sql.com){:height="36px" width="144px"}
+[![SQL](https://img.shields.io/badge/SQL-orange?logo=sql)](https://www.sql.com)
 [![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=python)](https://seaborn.pydata.org/)
 [![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi)](https://powerbi.microsoft.com/)
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)](https://www.python.org/){:height="36px" width="144px"}
+
 
 
 
