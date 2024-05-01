@@ -29,7 +29,7 @@ Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
     <img src="https://img.shields.io/badge/Seaborn-purple?logo=python" alt="Seaborn badge" width="200" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel" alt="Excel badge" width="100" />
+    <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel" alt="Excel badge" width="150" />
 </a>
 <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi" alt="Power BI badge" width="200" />
