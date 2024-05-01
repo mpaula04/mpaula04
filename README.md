@@ -13,7 +13,7 @@ Sobre mí:
 
 
 
-Hello! I'm Paula, a technology enthusiast currently transitioning into the exciting world of data analysis. 🚀
+## Hello! I'm Paula, a technology enthusiast currently transitioning into the exciting world of data analysis. 🚀
 
 About me:
 🔍 I'm fascinated by exploring data and uncovering hidden stories within it.
