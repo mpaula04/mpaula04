@@ -1,4 +1,4 @@
-<img src="https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn.png?raw=true" alt="Portada" width="900">
+<img src="https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn.png?raw=true" alt="Portada" width="1000">
 
 
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
