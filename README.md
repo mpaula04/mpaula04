@@ -63,7 +63,7 @@ Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaula04&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaula04)](https://github.com/mpaula04/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaula04&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaula04&layout=pie)](https://github.com/mpaula04/github-readme-stats)
 
 
 
