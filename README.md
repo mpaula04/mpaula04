@@ -1,6 +1,8 @@
 <img src="https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn.png?raw=true" alt="Portada" width="1200">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([URL-de-tu-perfil-de-LinkedIn](https://www.linkedin.com/in/maria-paula-cordoba-salazar/))
+<a href="[URL-de-tu-perfil-de-LinkedIn](https://www.linkedin.com/in/maria-paula-cordoba-salazar/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" width="200">
+</a>
 
 
 ### Hola, mi nombre es Paula, una apasionada de la tecnología y estoy en plena transición hacia el fascinante mundo del análisis de datos. 🚀
