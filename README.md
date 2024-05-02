@@ -61,8 +61,8 @@ Want to get in touch? Absolutely! You can reach me at mpaula04@hotmail.es
 </a>
 
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaula04)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaula04&show_icons=true&theme=radical)
 
 
 
