@@ -1,4 +1,4 @@
-<img src="https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn.png?raw=true" alt="Portada" width="1200">
+<img src="https://github.com/mpaula04/Portada/blob/main/Rosa%20y%20Durazno%20Tecnologi%CC%81a%20Banner%20de%20LinkedIn%20(1).png?raw=true" alt="Portada" width="1200">
 
 <div style="display: flex; justify-content: center;">
     <a href="https://www.linkedin.com/in/maria-paula-cordoba-salazar/">
